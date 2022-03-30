@@ -1,0 +1,7 @@
+Photo_Collector:
+  endpoint: 
+  training_key:
+  prediction_key:
+  predicition_resource_id:
+  project_id:
+  custom_vision_project_name: 
