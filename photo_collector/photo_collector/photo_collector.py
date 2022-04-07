@@ -36,8 +36,6 @@ class PhotoCollector(PolicyConnection):
             parameters=[
                 ('endpoint', None),
                 ('training_key', None),
-                ('prediction_key', None),
-                ('predicition_resource_id', None),
                 ('project_id', None),
                 ('custom_vision_project_name', None),
                 ('state_machine_val', None)

@@ -1,7 +1,6 @@
-Photo_Collector:
-  endpoint: 
-  training_key:
-  prediction_key:
-  predicition_resource_id:
-  project_id:
-  custom_vision_project_name: 
+main:
+  ros__parameters:
+    endpoint: "CUSTOM_VISION_ENDPOINT"
+    training_key: "CUSTOM_VISION_TRAINING_KEY"
+    project_id: "CUSTOM_VISION_PROJECT_ID"
+    custom_vision_project_name: "CUSTOM_VISION_PROJECT_NAME"
